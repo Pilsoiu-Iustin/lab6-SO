@@ -2,3 +2,5 @@
 *.o
 bin/
 obj/
+/Linux/Process1
+/Linux/Process2
